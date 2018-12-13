@@ -1,0 +1,70 @@
+<resources>
+
+    <!--
+    <string name="app_name">Charities</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_again">Password Again</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="action_yes">Yes</string>
+    <string name="action_no">No</string>
+    <string name="action_sign_out_message">Do you want to Sign Out this user ?</string>
+    <string name="action_no_internet_connection">No Internet Connection !</string>
+    <string name="action_no_inputs">Please fill in the form!</string>
+    <string name="action_done_saving">Information was saved successfully!</string>
+    <string name="action_back_message">Do you want to go back ?</string>
+    <string name="action_sign_in_u"><u>Sign in</u></string>
+    <string name="action_register_u"><u>Register</u></string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register_short">Register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_email_or_password">Unregistered email or Incorrect password</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_unmatched_password">Passwords are unmatched</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="add_person">Add Person</string>
+    <string name="search_person">Write person Name or ID</string>
+     <string name="upload_pic1">done uploading picture 1</string>
+     <string name="upload_pic2">done uploading picture 2</string>
+     <string name="upload_pic3">done uploading picture 3</string>
+
+    -->
+
+    <string name="app_name">الجمعيات الخيرية</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_again">Password Again</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="action_yes">نعم</string>
+    <string name="action_no">لا</string>
+    <string name="action_sign_out_message">هل تريد الخروج من هذا الحساب ؟</string>
+    <string name="action_no_internet_connection">لا يوجد إتصال بالإنترنت !</string>
+    <string name="action_no_inputs">من فضلك أملأ بعض الخانات !</string>
+    <string name="action_done_saving">تم حفظ المعلومات بنجاح.</string>
+    <string name="action_back_message">هل تريد العودة ؟</string>
+    <string name="action_sign_in_u"><u>Sign in</u></string>
+    <string name="action_register_u"><u>Register</u></string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register_short">Register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_email_or_password">Unregistered email or Incorrect password</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_unmatched_password">Passwords are unmatched</string>
+
+    <string name="add_person">إضافة حالة</string>
+    <string name="search_person">اسم..رقم هاتف..عنوان</string>
+    <string name="upload_user_pic">تم رفع الصورة الشخصية</string>
+    <string name="upload_id_pic">تم رفع صورة البطاقة</string>
+    <string name="upload_birth_pic">تم رفع شهادة الميلاد</string>
+
+    <string name="birth_text"><u>شهادة الميلاد</u></string>
+    <string name="id_text"><u>صورة البطاقة</u></string>
+
+
+</resources>

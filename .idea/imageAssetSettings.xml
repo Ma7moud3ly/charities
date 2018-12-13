@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ImageAssetSettings">
+    <option name="children">
+      <map>
+        <entry key="imageAssetPanel">
+          <value>
+            <PersistentState>
+              <option name="children">
+                <map>
+                  <entry key="launcher">
+                    <value>
+                      <PersistentState>
+                        <option name="children">
+                          <map>
+                            <entry key="foregroundClipArt">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="color" value="ffffff" />
+                                      <entry key="scalingPercent" value="67" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                            <entry key="foregroundClipartAsset">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="url" value="jar:file:/E:/Programs/Programming/Java/android-studio-ide-171.4474551-windows/android-studio/plugins/android/lib/android.jar!/images/material_design_icons/communication/ic_contact_phone_black_24dp.xml" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                            <entry key="foregroundImage">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="scalingPercent" value="58" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                            <entry key="foregroundText">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="scalingPercent" value="114" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                            <entry key="foregroundTextAsset">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="fontFamily" value="Arial" />
+                                      <entry key="text" value="الجمعيات الخيرية" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
+                        <option name="values">
+                          <map>
+                            <entry key="backgroundAssetType" value="COLOR" />
+                            <entry key="backgroundColor" value="d1e7f6" />
+                            <entry key="foregroundImage" value="E:\Workspace\android\Charities\screens\logo2.png" />
+                          </map>
+                        </option>
+                      </PersistentState>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </PersistentState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
