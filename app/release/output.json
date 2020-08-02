@@ -1,1 +1,33 @@
-[{"outputType":{"type":"APK"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1},"path":"app-release.apk","properties":{"packageId":"charities.ma7moud3ly.com","split":"","minSdkVersion":"16"}}]
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.ma7moud3ly.charities",
+  "variantName": "processReleaseResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [
+        {
+          "key": "packageId",
+          "value": "com.ma7moud3ly.charities"
+        },
+        {
+          "key": "split",
+          "value": ""
+        },
+        {
+          "key": "minSdkVersion",
+          "value": "19"
+        }
+      ],
+      "versionCode": 1,
+      "versionName": "1",
+      "enabled": true,
+      "outputFile": "app-release.apk"
+    }
+  ]
+}
